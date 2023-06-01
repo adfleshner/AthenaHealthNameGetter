@@ -1,0 +1,1 @@
+data class SiteInformation(val clinicId: Int, val httpCode:Int, val title:String,val clincName :String)
